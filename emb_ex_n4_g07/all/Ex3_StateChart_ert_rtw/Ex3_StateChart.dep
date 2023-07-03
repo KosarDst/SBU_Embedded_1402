@@ -1,0 +1,23 @@
+Ex3_StateChart.o: \
+ /Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/Ex3_StateChart.c \
+ /Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/Ex3_StateChart.h \
+ /Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/rtwtypes.h \
+ /Applications/MATLAB_R2022b.app/simulink/include/rtw_continuous.h \
+ /Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/rtwtypes.h \
+ /Applications/MATLAB_R2022b.app/simulink/include/rtw_solver.h \
+ /Applications/MATLAB_R2022b.app/simulink/include/rtw_continuous.h \
+ /Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/Ex3_StateChart_types.h
+
+/Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/Ex3_StateChart.h:
+
+/Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/rtwtypes.h:
+
+/Applications/MATLAB_R2022b.app/simulink/include/rtw_continuous.h:
+
+/Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/rtwtypes.h:
+
+/Applications/MATLAB_R2022b.app/simulink/include/rtw_solver.h:
+
+/Applications/MATLAB_R2022b.app/simulink/include/rtw_continuous.h:
+
+/Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/Ex3_StateChart_types.h:

@@ -1,0 +1,38 @@
+io_wrappers.o: \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/toolbox/target/supportpackages/arduinobase/src/io_wrappers.cpp \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ /Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/rtwtypes.h
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/apple/Documents/MATLAB/SupportPackages/R2022b/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard/pins_arduino.h:
+
+/Users/apple/MATLAB/Projects/hw2_q1/Ex3_StateChart_ert_rtw/rtwtypes.h:
